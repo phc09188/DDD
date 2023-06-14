@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">localhost</domain>
+        <domain includeSubdomains="true">127.0.0.1</domain>
+        <domain includeSubdomains="true">a318-2001-e60-d303-3ca0-5801-ba3e-3ed2-6930.ngrok-free.app</domain>
+        <domain includeSubdomains="true">1079-106-240-72-242.ngrok-free.app</domain>
+    </domain-config>
+</network-security-config>
